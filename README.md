@@ -1,1 +1,1 @@
-A python based custom reverse sh tunnel written in python with service script for Debian OS and its clones using init.d.
+A python based custom reverse sh tunnel written in python with service script for Raspbian OS and its clones using init.d.
